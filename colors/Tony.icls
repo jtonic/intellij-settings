@@ -1,0 +1,15 @@
+<scheme name="Tony" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="modified">2016-10-20T21:17:02</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e1d38a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

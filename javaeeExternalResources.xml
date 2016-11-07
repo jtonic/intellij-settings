@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://github.com/apache/logging-log4j2/blob/master/log4j-core/src/main/resources/Log4j-config.xsd" />
+  </component>
+</application>

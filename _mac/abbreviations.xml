@@ -1,0 +1,15 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="TypeHierarchy.Subtypes">
+        <abbreviation name="b" />
+      </action>
+      <action id="TypeHierarchy.Supertypes">
+        <abbreviation name="p" />
+      </action>
+      <action id="TypeHierarchy.Class">
+        <abbreviation name="c" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
