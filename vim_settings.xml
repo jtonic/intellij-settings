@@ -1,0 +1,317 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/Test01.scala" timestamp="1469633486332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1471614488829">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/spray-slick-seed/README.md" timestamp="1469605007111">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/src/main/scala/akka/Flight.scala" timestamp="1470901370061">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/hello-play-scala/conf/application.conf" timestamp="1470305637470">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/collection/immutable/StringOps.scala" timestamp="1471640811710" />
+      <file name="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" timestamp="1471630184408">
+        <mark key="'" line="29" column="51" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/hello-play-scala/build.sbt" timestamp="1470900461822">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="/a.sql" timestamp="1471616627656">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/hello-play-scala/app/controllers/Application.scala" timestamp="1470306869988">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="101" />
+        <mark key="." line="6" column="101" />
+        <mark key="^" line="6" column="101" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/build.sbt" timestamp="1470900962646">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/web/SimpleServlet.scala" timestamp="1469453829388">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="54" />
+      </file>
+      <file name="/dummy.sql" timestamp="1471616636827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/certifications-ocp8/src/ro/jtonic/cert/ocp8/fin/Final1.java" timestamp="1468274512970">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/src/main/scala/akka/Hotel.scala" timestamp="1470901789174">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1471632549359">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/akka/Main.scala" timestamp="1468920662360">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="61" />
+        <mark key="^" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/web/experiment 2.sc" timestamp="1469454586850">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-slick/README.md" timestamp="1471617904739">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/webapp/WEB-INF/web.xml" timestamp="1469453587708">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/web/experiment.sc" timestamp="1469533098700">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-slick/build.sbt" timestamp="1471607200852">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/project/build.properties" timestamp="1468913037611">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/project/plugins.sbt" timestamp="1469451753858">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/src/main/scala/akka/BookingMain.scala" timestamp="1470903941842">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/build.sbt" timestamp="1469529645067">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/Test01.sc" timestamp="1469633144807">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/ScalaSchool.scala" timestamp="1471640673632">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/src/main/scala/sfjd/traits.scala" timestamp="1468913190511">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/spray-slick-seed/project/Dependencies.scala" timestamp="1469632776314">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/ShouldWork.scala" timestamp="1469634768981">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/project/build.scala" timestamp="1469452086589">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/handson-scala/src/main/scala/akka/TravelAgent.scala" timestamp="1470903595690">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/core/traits.scala" timestamp="1469040208892">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1471612651234">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="28" filename="$USER_HOME$/jtonic/git/github/handson-java8/src/main/java/ro/jtonic/handson/java8/time/TimeTest.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/core/traits.scala" />
+      <jump line="9" column="8" filename="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/core/traits.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/core/traits.scala" />
+      <jump line="19" column="8" filename="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/core/traits.scala" />
+      <jump line="2" column="17" filename="$USER_HOME$/jtonic/git/github/prj-scala/src/main/scala/web/experiment.sc" />
+      <jump line="4" column="4" filename="$USER_HOME$/jtonic/git/github/spray-slick-seed/README.md" />
+      <jump line="10" column="4" filename="$USER_HOME$/jtonic/git/github/spray-slick-seed/README.md" />
+      <jump line="0" column="11" filename="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/Test01.sc" />
+      <jump line="7" column="0" filename="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/Test01.sc" />
+      <jump line="4" column="4" filename="$USER_HOME$/jtonic/git/github/spray-slick-seed/src/test/scala/spec/ShouldWork.scala" />
+      <jump line="38" column="21" filename="$USER_HOME$/jtonic/git/github/hello-play-scala/conf/application.conf" />
+      <jump line="32" column="0" filename="$USER_HOME$/jtonic/git/github/hello-play-scala/conf/application.conf" />
+      <jump line="20" column="0" filename="$USER_HOME$/jtonic/git/github/handson-scala/build.sbt" />
+      <jump line="19" column="0" filename="$USER_HOME$/jtonic/git/github/handson-scala/build.sbt" />
+      <jump line="5" column="31" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="27" column="21" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="32" column="18" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="8" column="56" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="23" column="92" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="54" column="0" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="29" column="51" filename="$USER_HOME$/jtonic/git/github/handson-slick/src/main/scala/Tables1.scala" />
+      <jump line="30" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/collection/immutable/StringOps.scala" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>msg</text>
+      </register>
+      <register name="-" type="4">
+        <text>msg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxIb3dcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIDEgKyAxCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgU2NhbGFTY2hvb2wgewp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIFNjYWxhIFdvcmxkIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgb3B0aW9uRXhhbXBsZSA9IHsKICAgIHZhbCBvcHQ6IE9wdGlvbltJbnRdID0gTm9uZQogICAgdmFsIG9wdDI6IE9wdGlvbltJbnRdID0gU29tZSgxMDApCgogICAgcHJpbnRsbihvcHQgZ2V0T3JFbHNlIC0xKQogICAgcHJpbnRsbihvcHQyIGdldE9yRWxzZSAtMSkKICAgIHByaW50bG4ob3B0MiBnZXQpCiAgICBwcmludGxuKG9wdDIgb3JFbHNlIE5vbmUpCiAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBuZWRkdyBTY2FsYVNjaG9vbCgpLm9wdGlvbkV4YW1wbGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbXBvcnQgU2NhbGFTY2hvb2wuX2RkCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxIb3dcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxIb3dcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxIb3dcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>2j</entry>
+        <entry>0</entry>
+        <entry>q</entry>
+        <entry>1,$d</entry>
+        <entry>5</entry>
+        <entry>W</entry>
+        <entry>s</entry>
+        <entry>e</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
