@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="pom.xml" reformat="true" live-template-enabled="true" />
+      <template name="Maven pom file.xml" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
