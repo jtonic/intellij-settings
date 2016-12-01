@@ -5,9 +5,12 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <artifact name="Oracle" version="12.1.0.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Oracle/12.1.0.2/ojdbc6-12.1.0.2.jar</url>
+      </library>
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <artifact name="Apache Derby" use="true" />
