@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32e969bc_dbchangelog-3.5.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <ignored-resource url="http://github.com/apache/logging-log4j2/blob/master/log4j-core/src/main/resources/Log4j-config.xsd" />
   </component>
 </application>
