@@ -194,9 +194,80 @@
             <list>
               <Lesson>
                 <option name="name" value="Basic Completion" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Smart Type Completion" />
+                <option name="statistic">
+                  <list>
+                    <MyPair>
+                      <option name="status" value="started" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                    <MyPair>
+                      <option name="status" value="closed" />
+                    </MyPair>
+                  </list>
+                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Statement Completion" />
@@ -278,6 +349,6 @@
         </course>
       </list>
     </option>
-    <option name="lastActivityTime" value="1484159388669" />
+    <option name="lastActivityTime" value="1484248568442" />
   </component>
 </application>
