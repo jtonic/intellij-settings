@@ -1,12 +1,17 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="Docker machine" type="docker">
       <configuration>
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/dev" />
-        <option name="machine" value="dev" />
         <option name="pathMappings">
           <list />
         </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker for mac" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="composeExecPath" value="/Applications/Docker.app/Contents/Resources/bin/docker-compose" />
       </configuration>
     </remote-server>
   </component>
