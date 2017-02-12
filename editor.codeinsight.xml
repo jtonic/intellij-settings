@@ -9,6 +9,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javafx.concurrent" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="sun.rmi" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
