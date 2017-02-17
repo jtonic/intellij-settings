@@ -7,6 +7,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="Vagrantfile_old" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
