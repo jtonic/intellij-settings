@@ -1,13 +1,32 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx.tk" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="javafx.concurrent" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="sun.rmi" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_LONG_STRINGS" value="true" />
+    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
+    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
   </component>
 </application>

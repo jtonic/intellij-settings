@@ -1,6 +1,6 @@
 <application>
   <component name="DockerRegistry">
-    <DockerRegistry email="antonel.pazargic@gmail.com" password="PazAntErnPas1970!Do">
+    <DockerRegistry email="antonel.pazargic@gmail.com">
       <option name="address" value="registry.hub.docker.com" />
       <option name="name" value="Docker Registry" />
       <option name="username" value="jtonic" />
