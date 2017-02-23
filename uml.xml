@@ -1,0 +1,11 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Show Usages;Show Cyclic" />
+        <entry id="MODULES" categories="Libraries;Test dependencies" />
+        <entry id="RailsDependency" categories="Association fields;Migration fields" />
+      </map>
+    </option>
+  </component>
+</application>
