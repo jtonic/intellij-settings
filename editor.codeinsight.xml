@@ -8,9 +8,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
-    <EXCLUDED_PACKAGE NAME="com.sun.javafx.tk" />
-    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
-    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javafx.concurrent" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
