@@ -109,6 +109,9 @@
   <Python>
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
+  <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="99" />
+  </ScalaCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>
