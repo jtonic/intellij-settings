@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/Kotlin/kotlin-in-action.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/codeforgreen/rbac-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/jtonic/git/github" />
