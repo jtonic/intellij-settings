@@ -7,10 +7,10 @@
       <blacklist language="Ruby" />
       <blacklist language="Kotlin">
         <added pattern="kotlin.collections.joinToString(separator)" />
+        <added pattern="io.kotlintest.matchers.haveSize(size)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
   </component>
