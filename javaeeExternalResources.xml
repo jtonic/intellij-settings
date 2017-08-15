@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/39e8daee_ehcache.xsd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/48b8f268_assembly-1.1.2.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32e969bc_dbchangelog-3.5.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.7.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/c939223c_dbchangelog-1.7.xsd" />
