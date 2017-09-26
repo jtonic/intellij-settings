@@ -7,5 +7,6 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.new.editor.tabs.selection.color" value="137,184,26" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
