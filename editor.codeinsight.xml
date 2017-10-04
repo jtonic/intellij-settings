@@ -10,6 +10,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javafx.concurrent" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="sun.invoke" />
     <EXCLUDED_PACKAGE NAME="sun.rmi" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
