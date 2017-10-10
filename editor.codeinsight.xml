@@ -15,6 +15,9 @@
     <EXCLUDED_PACKAGE NAME="sun.rmi" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseAnnotations" value="true" />
