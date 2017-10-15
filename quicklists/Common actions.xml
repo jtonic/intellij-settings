@@ -1,0 +1,4 @@
+<list display="Common actions">
+  <action id="CloseProject" />
+  <action id="ManageRecentProjects" />
+</list>
